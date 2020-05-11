@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Program/Program.csproj": {}
+  },
+  "projects": {
+    "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Library/Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Library/Library.csproj",
+        "projectName": "Library",
+        "projectPath": "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Library/Library.csproj",
+        "packagesPath": "/Users/vale/.nuget/packages/",
+        "outputPath": "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vale/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Program/Program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Program/Program.csproj",
+        "projectName": "Program",
+        "projectPath": "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Program/Program.csproj",
+        "packagesPath": "/Users/vale/.nuget/packages/",
+        "outputPath": "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Program/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vale/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Library/Library.csproj": {
+                "projectPath": "/Users/vale/Desktop/FACULTAD/Programacion/PII_Observer_Generico_Start/PII_Observer_Generico_Start/src/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
